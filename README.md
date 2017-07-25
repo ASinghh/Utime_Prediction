@@ -4,6 +4,10 @@ I TRIED MULTIPLE REGRESSION, LASSO AND RIDGE. LASSO OUT PERFORMED ALL OTHERS WIT
 
 
 
+**Refer to the project report for details
+
+
+
 
 Picked up the data from the UC Irvine library(https://archive.ics.uci.edu/ml/datasets/Online+Video+Characteristics+and+Transcoding+Time+Dataset)
 The presented dataset is composed of two tsv files named 'youtube_videos.tsv' 
