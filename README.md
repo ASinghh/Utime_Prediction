@@ -1,4 +1,4 @@
-# Comparision of Regression methods for modelling Chemical solubility
+# Comparision of Regression methods for modelling Video Transcoding Time
 The goal of this project is to predict video transcoding time using linear models. We compare OLS Regression with Ridge and Lasso Regression methods.
 
 ## Data
